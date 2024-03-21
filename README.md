@@ -34,22 +34,19 @@ Vue.js를 이용하여 서울어린이대공원 사이트를 리뉴얼하였습�
 
 
 ## 📢 설치 방법
-* npm install -g @vue/cli
-* vue create .
+1. npm install -g @vue/cli
+2. vue create .
 > * y
 > * Manually select features
-> * PWA, Router
+> * PWA, Router, vuex
 > * 2.x
 > * y
 > * In package.json
 > * n
-* npm install vue-awesome-swiper --save
-* npm install swiper --save
-* npm install @fortawesome/fontawesome-free --save
-* npm install vuex --save
-* npm run serve
-* npm run build
-* serve dist
+3. npm install .
+4. npm run serve
+5. npm run build
+6. serve dist
 
 ## 사이트 바로가기
 <https://yjjang1207.github.io/park/>
